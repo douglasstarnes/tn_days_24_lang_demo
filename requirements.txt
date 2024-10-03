@@ -1,2 +1,3 @@
 azure-ai-textanalytics
 python-dotenv
+requests
